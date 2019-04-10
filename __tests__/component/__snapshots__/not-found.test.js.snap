@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Not Found renders correctly 1`] = `
+Array [
+  <h4
+    className="MuiTypography-root-3 MuiTypography-h4-18 MuiTypography-alignCenter-26 NotFound-padding-2 WithStyles-NotFound--padding-1"
+  >
+    404 Not Found
+  </h4>,
+  <h6
+    className="MuiTypography-root-3 MuiTypography-subtitle1-21 MuiTypography-alignCenter-26 NotFound-padding-2 WithStyles-NotFound--padding-1"
+  >
+    You should turn back to 
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+  </h6>,
+]
+`;

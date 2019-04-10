@@ -1,0 +1,472 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List renders correctly 1`] = `
+Array [
+  <div
+    className="overlay"
+  >
+    <div
+      className="loading-animation"
+    >
+      <div
+        className="lds-grid"
+      >
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+        <div />
+      </div>
+    </div>
+  </div>,
+  <div
+    className="DataTable-searchBox-3"
+  >
+    <div
+      className="MuiInputBase-root-4 MuiInputBase-fullWidth-13 MuiInputBase-adornedEnd-9"
+      onClick={[Function]}
+    >
+      <input
+        className="MuiInputBase-input-14 MuiInputBase-inputAdornedEnd-20"
+        defaultValue=""
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="Search in the list"
+        type="text"
+      />
+      <div
+        className="MuiInputAdornment-root-21 MuiInputAdornment-positionEnd-24"
+      >
+        <svg
+          aria-hidden="true"
+          className="MuiSvgIcon-root-26"
+          focusable="false"
+          role="presentation"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+          />
+          <path
+            d="M0 0h24v24H0z"
+            fill="none"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="DataTable-tableWrapper-2"
+  >
+    <table
+      aria-labelledby="tableTitle"
+      className="MuiTable-root-35 DataTable-table-1"
+    >
+      <thead
+        className="MuiTableHead-root-36"
+      >
+        <tr
+          className="MuiTableRow-root-37 MuiTableRow-head-40"
+        >
+          <th
+            aria-sort="ascending"
+            className="MuiTableCell-root-42 MuiTableCell-head-43"
+            scope="col"
+          >
+            <span
+              className="MuiButtonBase-root-59 MuiTableSortLabel-root-54 MuiTableSortLabel-active-55"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              role="button"
+              tabIndex="0"
+            >
+              Flight Type
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root-26 MuiTableSortLabel-icon-56 MuiTableSortLabel-iconDirectionAsc-58"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+                />
+              </svg>
+            </span>
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-head-43"
+            scope="col"
+          >
+            <span
+              className="MuiButtonBase-root-59 MuiTableSortLabel-root-54"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              role="button"
+              tabIndex="0"
+            >
+              Departure
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root-26 MuiTableSortLabel-icon-56 MuiTableSortLabel-iconDirectionAsc-58"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+                />
+              </svg>
+            </span>
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-head-43"
+            scope="col"
+          >
+            <span
+              className="MuiButtonBase-root-59 MuiTableSortLabel-root-54"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              role="button"
+              tabIndex="0"
+            >
+              Departure Date
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root-26 MuiTableSortLabel-icon-56 MuiTableSortLabel-iconDirectionAsc-58"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+                />
+              </svg>
+            </span>
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-head-43"
+            scope="col"
+          >
+            <span
+              className="MuiButtonBase-root-59 MuiTableSortLabel-root-54"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              role="button"
+              tabIndex="0"
+            >
+              Arrival
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root-26 MuiTableSortLabel-icon-56 MuiTableSortLabel-iconDirectionAsc-58"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+                />
+              </svg>
+            </span>
+          </th>
+          <th
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-head-43"
+            scope="col"
+          >
+            <span
+              className="MuiButtonBase-root-59 MuiTableSortLabel-root-54"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              role="button"
+              tabIndex="0"
+            >
+              Arrival Date
+              <svg
+                aria-hidden="true"
+                className="MuiSvgIcon-root-26 MuiTableSortLabel-icon-56 MuiTableSortLabel-iconDirectionAsc-58"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M20 12l-1.41-1.41L13 16.17V4h-2v12.17l-5.58-5.59L4 12l8 8 8-8z"
+                />
+              </svg>
+            </span>
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        className="MuiTableBody-root-62"
+      >
+        <tr
+          className="MuiTableRow-root-37"
+          tabIndex={-1}
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+        </tr>
+        <tr
+          className="MuiTableRow-root-37"
+          tabIndex={-1}
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+        </tr>
+        <tr
+          className="MuiTableRow-root-37"
+          tabIndex={-1}
+        >
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+          <td
+            aria-sort={null}
+            className="MuiTableCell-root-42 MuiTableCell-body-44"
+          />
+        </tr>
+      </tbody>
+    </table>
+  </div>,
+  <div
+    className="MuiTablePagination-root-63"
+  >
+    <div
+      className="MuiToolbar-root-73 MuiToolbar-regular-75 MuiToolbar-gutters-74 MuiTablePagination-toolbar-64"
+    >
+      <div
+        className="MuiTablePagination-spacer-65"
+      />
+      <span
+        className="MuiTypography-root-77 MuiTypography-caption-87 MuiTypography-colorInherit-106 MuiTablePagination-caption-66"
+      >
+        Rows per page:
+      </span>
+      <div
+        className="MuiInputBase-root-4 MuiTablePagination-input-70"
+        onClick={[Function]}
+      >
+        <div
+          className="MuiSelect-root-113 MuiTablePagination-selectRoot-67"
+        >
+          <div
+            aria-haspopup="true"
+            aria-pressed="false"
+            className="MuiSelect-select-114 MuiTablePagination-select-68 MuiSelect-selectMenu-117 MuiInputBase-input-14"
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            5
+          </div>
+          <input
+            type="hidden"
+            value={5}
+          />
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root-26 MuiSelect-icon-119 MuiTablePagination-selectIcon-69"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <span
+        className="MuiTypography-root-77 MuiTypography-caption-87 MuiTypography-colorInherit-106 MuiTablePagination-caption-66"
+      >
+        1-3 of 3
+      </span>
+      <div
+        className="MuiTablePagination-actions-72"
+      >
+        <button
+          aria-label="Previous Page"
+          className="MuiButtonBase-root-59 MuiButtonBase-disabled-60 MuiIconButton-root-124 MuiIconButton-colorInherit-125 MuiIconButton-disabled-128"
+          disabled={true}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="-1"
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label-129"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root-26"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M15.41 16.09l-4.58-4.59 4.58-4.59L14 5.5l-6 6 6 6z"
+              />
+            </svg>
+          </span>
+        </button>
+        <button
+          aria-label="Next Page"
+          className="MuiButtonBase-root-59 MuiButtonBase-disabled-60 MuiIconButton-root-124 MuiIconButton-colorInherit-125 MuiIconButton-disabled-128"
+          disabled={true}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onContextMenu={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex="-1"
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label-129"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root-26"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M8.59 16.34l4.58-4.59-4.58-4.59L10 5.75l6 6-6 6z"
+              />
+            </svg>
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>,
+]
+`;

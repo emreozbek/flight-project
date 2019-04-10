@@ -1,0 +1,352 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Flight Form renders correctly 1`] = `
+<form
+  className="ReduxForm-padding-1"
+  noValidate="novalidate"
+  onSubmit={[Function]}
+>
+  <div
+    className="MuiGrid-container-3 MuiGrid-spacing-xs-16-26"
+  >
+    <div
+      className="MuiGrid-item-4 MuiGrid-grid-xs-12-43 MuiGrid-grid-sm-6-51 ReduxForm-padding-1"
+    >
+      <div
+        className="MuiFormControl-root-100 MuiFormControl-marginDense-102 MuiFormControl-fullWidth-103"
+        onDragStart={[Function]}
+        onDrop={[Function]}
+      >
+        <label
+          className="MuiFormLabel-root-115 MuiFormLabel-required-120 MuiInputLabel-required-108 MuiInputLabel-root-104 MuiInputLabel-formControl-109 MuiInputLabel-animated-112 MuiInputLabel-marginDense-110"
+          data-shrink={false}
+        >
+          Departure
+          <span
+            className="MuiFormLabel-asterisk-121"
+          >
+             *
+          </span>
+        </label>
+        <div
+          className="MuiInputBase-root-135 MuiInput-root-122 MuiInput-underline-126 MuiInputBase-fullWidth-144 MuiInput-fullWidth-129 MuiInputBase-formControl-136 MuiInput-formControl-123 MuiInputBase-marginDense-142"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            className="MuiInputBase-input-145 MuiInput-input-130 MuiInputBase-inputMarginDense-146 MuiInput-inputMarginDense-131"
+            disabled={false}
+            name="departure"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={true}
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-item-4 MuiGrid-grid-xs-12-43 MuiGrid-grid-sm-6-51 ReduxForm-padding-1"
+    >
+      <div
+        className="MuiFormControl-root-100 MuiFormControl-marginDense-102 MuiFormControl-fullWidth-103"
+        onDragStart={[Function]}
+        onDrop={[Function]}
+      >
+        <label
+          className="MuiFormLabel-root-115 MuiFormLabel-required-120 MuiInputLabel-required-108 MuiInputLabel-root-104 MuiInputLabel-formControl-109 MuiInputLabel-animated-112 MuiInputLabel-marginDense-110"
+          data-shrink={false}
+        >
+          Arrival
+          <span
+            className="MuiFormLabel-asterisk-121"
+          >
+             *
+          </span>
+        </label>
+        <div
+          className="MuiInputBase-root-135 MuiInput-root-122 MuiInput-underline-126 MuiInputBase-fullWidth-144 MuiInput-fullWidth-129 MuiInputBase-formControl-136 MuiInput-formControl-123 MuiInputBase-marginDense-142"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            className="MuiInputBase-input-145 MuiInput-input-130 MuiInputBase-inputMarginDense-146 MuiInput-inputMarginDense-131"
+            disabled={false}
+            name="arrival"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={true}
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-item-4 MuiGrid-grid-xs-12-43 MuiGrid-grid-sm-6-51 ReduxForm-padding-1"
+    >
+      <div
+        className="MuiFormControl-root-100 MuiFormControl-marginDense-102 MuiFormControl-fullWidth-103"
+        onClick={[Function]}
+        onKeyPress={[Function]}
+      >
+        <label
+          className="MuiFormLabel-root-115 MuiFormLabel-required-120 MuiInputLabel-required-108 MuiInputLabel-root-104 MuiInputLabel-formControl-109 MuiInputLabel-animated-112 MuiInputLabel-marginDense-110"
+          data-shrink={false}
+        >
+          Departure Date
+          <span
+            className="MuiFormLabel-asterisk-121"
+          >
+             *
+          </span>
+        </label>
+        <div
+          className="MuiInputBase-root-135 MuiInput-root-122 MuiInput-underline-126 MuiInputBase-fullWidth-144 MuiInput-fullWidth-129 MuiInputBase-formControl-136 MuiInput-formControl-123 MuiInputBase-marginDense-142"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            className="MuiInputBase-input-145 MuiInput-input-130 MuiInputBase-inputMarginDense-146 MuiInput-inputMarginDense-131"
+            disabled={false}
+            mask={null}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            pipe={null}
+            readOnly={true}
+            required={true}
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-item-4 MuiGrid-grid-xs-12-43 MuiGrid-grid-sm-6-51 ReduxForm-padding-1"
+    >
+      <div
+        className="MuiFormControl-root-100 MuiFormControl-marginDense-102 MuiFormControl-fullWidth-103"
+        onClick={[Function]}
+        onKeyPress={[Function]}
+      >
+        <label
+          className="MuiFormLabel-root-115 MuiFormLabel-required-120 MuiInputLabel-required-108 MuiInputLabel-root-104 MuiInputLabel-formControl-109 MuiInputLabel-animated-112 MuiInputLabel-marginDense-110"
+          data-shrink={false}
+        >
+          Arrival Date
+          <span
+            className="MuiFormLabel-asterisk-121"
+          >
+             *
+          </span>
+        </label>
+        <div
+          className="MuiInputBase-root-135 MuiInput-root-122 MuiInput-underline-126 MuiInputBase-fullWidth-144 MuiInput-fullWidth-129 MuiInputBase-formControl-136 MuiInput-formControl-123 MuiInputBase-marginDense-142"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            className="MuiInputBase-input-145 MuiInput-input-130 MuiInputBase-inputMarginDense-146 MuiInput-inputMarginDense-131"
+            disabled={false}
+            mask={null}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            pipe={null}
+            readOnly={true}
+            required={true}
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="MuiGrid-item-4 MuiGrid-grid-xs-12-43 MuiGrid-grid-sm-12-57 ReduxForm-padding-1"
+    >
+      <fieldset
+        className="MuiFormControl-root-100"
+      >
+        <legend
+          className="MuiFormLabel-root-115 MuiFormLabel-required-120"
+        >
+          Flight Type
+          <span
+            className="MuiFormLabel-asterisk-121"
+          >
+             *
+          </span>
+        </legend>
+        <div
+          className="MuiFormGroup-root-176 MuiFormGroup-row-177"
+          onBlur={[Function]}
+          onDragStart={[Function]}
+          onDrop={[Function]}
+          onFocus={[Function]}
+          role="radiogroup"
+        >
+          <label
+            className="MuiFormControlLabel-root-178"
+          >
+            <span
+              className="MuiButtonBase-root-199 MuiIconButton-root-193 MuiPrivateSwitchBase-root-189 MuiRadio-root-184 MuiRadio-colorSecondary-188"
+              onBlur={[Function]}
+              onContextMenu={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={null}
+            >
+              <span
+                className="MuiIconButton-label-198"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="MuiSvgIcon-root-202"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                  />
+                </svg>
+                <input
+                  checked={false}
+                  className="MuiPrivateSwitchBase-input-192"
+                  disabled={false}
+                  onChange={[Function]}
+                  type="radio"
+                  value="Cheap"
+                />
+              </span>
+              <span
+                className="MuiTouchRipple-root-273"
+              />
+            </span>
+            <span
+              className="MuiTypography-root-211 MuiTypography-body1-220 MuiFormControlLabel-label-183"
+            >
+              Cheap
+            </span>
+          </label>
+          <label
+            className="MuiFormControlLabel-root-178"
+          >
+            <span
+              className="MuiButtonBase-root-199 MuiIconButton-root-193 MuiPrivateSwitchBase-root-189 MuiRadio-root-184 MuiRadio-colorSecondary-188"
+              onBlur={[Function]}
+              onContextMenu={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={null}
+            >
+              <span
+                className="MuiIconButton-label-198"
+              >
+                <svg
+                  aria-hidden="true"
+                  className="MuiSvgIcon-root-202"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                  />
+                </svg>
+                <input
+                  checked={false}
+                  className="MuiPrivateSwitchBase-input-192"
+                  disabled={false}
+                  onChange={[Function]}
+                  type="radio"
+                  value="Business"
+                />
+              </span>
+              <span
+                className="MuiTouchRipple-root-273"
+              />
+            </span>
+            <span
+              className="MuiTypography-root-211 MuiTypography-body1-220 MuiFormControlLabel-label-183"
+            >
+              Business
+            </span>
+          </label>
+        </div>
+      </fieldset>
+    </div>
+  </div>
+  <button
+    className="MuiButtonBase-root-199 MuiButton-root-247 MuiButton-outlined-255 MuiButton-outlinedPrimary-256"
+    disabled={false}
+    onBlur={[Function]}
+    onContextMenu={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="submit"
+  >
+    <span
+      className="MuiButton-label-248"
+    >
+      Save
+    </span>
+    <span
+      className="MuiTouchRipple-root-273"
+    />
+  </button>
+  <button
+    className="MuiButtonBase-root-199 MuiButton-root-247 MuiButton-text-249 MuiButton-textSecondary-251 MuiButton-flat-252 MuiButton-flatSecondary-254 ReduxForm-marginLeft-2"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onContextMenu={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="MuiButton-label-248"
+    >
+      Reset
+    </span>
+    <span
+      className="MuiTouchRipple-root-273"
+    />
+  </button>
+</form>
+`;

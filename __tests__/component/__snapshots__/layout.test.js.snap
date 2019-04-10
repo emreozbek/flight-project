@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout renders correctly 1`] = `
+Array [
+  <div
+    className="Layout-background-1"
+  />,
+  <div
+    className="Layout-wrapper-2"
+  >
+    <h1
+      className="MuiTypography-root-3 MuiTypography-h5-19 MuiTypography-gutterBottom-30"
+    >
+      Flight Project
+    </h1>
+    <div
+      className="MuiPaper-root-39 MuiPaper-elevation1-42 MuiPaper-rounded-40"
+    />
+    <span
+      className="MuiTypography-root-3 MuiTypography-caption-13"
+    >
+      Powered using React, Redux, Redux-Saga and Axios
+    </span>
+  </div>,
+]
+`;
